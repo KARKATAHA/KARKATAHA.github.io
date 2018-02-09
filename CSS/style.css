@@ -1,0 +1,24 @@
+body{
+	margin-top: 150px;
+	background-color: #513543;
+}
+
+.vanish{
+	display: none;
+}
+
+.white{
+	color:white;
+}
+
+.super_large{
+	font-size: 66px !important;
+}
+
+.text_center{
+	text-align: center;
+}
+
+.product{
+	border:#000 1px solid;
+}
